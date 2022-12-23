@@ -1,0 +1,282 @@
+@media (min-width: 320px) and (max-width: 575px) { 
+
+    /* header top start */
+
+    #header_top {
+        height: 80px;
+        padding-top: 10px;
+    }
+
+    #header_top p {
+        
+        font-size: 13px;
+        
+    } 
+
+    #header_top .achor a {
+        font-size: 12px;
+        color: #252525;
+        padding: 0px 0px;
+    }
+
+    #header_top p {
+        line-height: 17px;
+        text-align: start;
+    }
+   
+    /* header top end */
+
+    /* navbar start */
+    #main_menu .main_logo {
+        font-size: 25px;
+        
+    }
+
+    .navbar-toggler:focus {
+        
+        box-shadow: none;
+    }
+
+    #main_menu .nav_icons i {
+        font-size: 24px;
+        
+    }
+
+    /* navbar end */
+
+     /* banner_search_bar start */
+    #banner p {
+        font-size: 16px;
+        
+    }
+
+    #banner .Cetagory {
+        height: 45px;
+        line-height: 45px;
+        
+    }
+
+    #banner .Cetagory i {
+        margin-right: 12px;
+    }
+    
+    #banner form {
+        height: 40px;
+    }
+
+    #banner form button {
+        font-size: 16px;
+    }
+
+    #banner .banner_search_bar a {
+        font-size: 16px;
+    }
+    #banner .col-lg-3 .center{
+        margin: auto;
+        padding: 5px 0;
+    }
+    
+     /* banner_search_bar end */
+
+
+     /* banner_bg_part end */
+
+     #banner .banner_bg {
+        
+        margin-bottom: 40px;
+    }
+
+     #banner .banner_bg h2 {
+        font-size: 18px;
+        
+    }
+
+    #banner .banner_bg h1 {
+        margin-top: 12px;
+        margin-bottom: 12px;
+      }
+    
+
+    #banner .banner_bg p {
+        font-size: 15px;
+        ;
+    }
+    #banner .banner_bg button {
+        padding: 8px 9px;
+        font-size: 12px;
+    }
+
+
+   
+     /* banner_bg_part end */
+
+
+     /* best_features start */
+
+     #banner .best_features {
+        margin-bottom: 40px;
+    }
+
+     #banner .best_features .item img {
+        
+        top: 3px;
+    }
+
+     #banner .best_features .item h3 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #222222;
+    }
+
+     /* best_features end */
+
+
+     /* google_extra start */
+
+     #banner .google_extra {
+        margin-bottom: 20px;
+    }
+
+     /* google_extra end */
+
+
+     /* banner_deals start */
+
+     #banner_deals .main .item {
+        width: 100%;
+        padding-top: 10px;
+        margin-left: 30px;
+    }
+
+     /* google_extra end */
+
+     /* apple_bg2 start */
+
+     #banner_deals .apple_bg1 {
+        
+        margin-top: 50px;
+    }
+     #banner_deals .apple_bg2 {
+
+       margin-top: 20px;
+       margin-bottom: 40px;
+    }
+
+    #banner_deals .brand_bg1 {
+
+        margin-top: 40px;
+    }
+
+    #banner_deals .brand_bg2 {
+        
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+     /* apple_bg2 end */
+
+     #icons_img .item{
+        width: 45%;
+     }
+
+     #icons_img .item img{
+        width: 100%;
+        margin-top: 15px;
+        margin-bottom: 15px;
+      }
+     
+
+     #icons_img .item_last img {
+        width: 50%;
+        margin-left: 90px;
+    }
+
+    
+    #banner_deals .hp_bg1 {
+        
+        margin-top: 40px;
+    }
+    #banner_deals .hp_bg2 {
+        
+        margin-top: 20px;
+        margin-bottom: 50px;
+       
+    }
+
+    #wave form {
+        padding-top: 20px;
+       
+    }
+
+    #wave form button{
+        padding: 5px 8px;
+        font-size: 12px;
+    }
+    #wave ul li a {
+        
+        padding: 14px 0px;
+    }
+
+    #wave .wave_bg {
+        
+        height: 110px;
+        
+    }
+
+    #footer .main {
+        
+        flex-wrap: wrap;
+    }
+
+
+    #footer .main .item_one {
+        width: 49%;
+    }
+
+    #footer .main .item_one h3 {
+        font-size: 16px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    #footer .main .item_one ul li a {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+
+    #footer .main .item_five {
+        width: 49%;
+    }
+
+    #footer .main .item_five h3 {
+        font-size: 16px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    #footer .main .item_five ul li img {
+        margin-bottom: 20px;
+        width: 65%;
+    }
+
+    #copy p {
+        padding: 20px 0;
+        margin-left: 15px;
+        font-size: 13px;
+    }
+
+    #copy ul li a {
+        margin-right: 27px;
+        padding: 9px 7px;
+    }
+
+
+
+}
+     
+
+    
+
+    
+
+
